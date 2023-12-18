@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213623505921",
+    "project_id": "fir-firestore-99b32",
+    "storage_bucket": "fir-firestore-99b32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213623505921:android:196e41fa370e5811d86c00",
+        "android_client_info": {
+          "package_name": "com.nyomandwipa.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmrcnTs914lTIoy5Wq_ttW0OH3cWq2-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
